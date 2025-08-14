@@ -1,0 +1,7 @@
+Following variables are the Inputs and outputs of the feeder machine
+Real Time Clock-Input
+Feeding Schedule- Input
+Food level sensor- Input
+Send alert- Booleans
+Dispense food- Output
+User alert- Output
