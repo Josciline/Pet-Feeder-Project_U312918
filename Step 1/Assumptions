@@ -1,0 +1,6 @@
+Following are the assumptions on the pet feeder machine.
+i.	The feeder machine will dispense food on time ( for e.g. 8 AM and 6 PM).
+ii.	The feeder machine will be connected to real time clock in order to follow the feeding time mechanism.
+iii.	The feeder machine is able to access internet to send alerts to the shelter staff.
+iv.	The shelter staff will regularly refill the food bin.
+v.	The food tray is pet friendly. 
