@@ -1,0 +1,3 @@
+Pet eats as expected- The expectation is met when the pet eats the food from the food tray as dispensed. 
+Pet does not eat- The expectation is not met since the pet did not eat the food. 
+Food bin is empty- Since the food bin is empty the food cannot be dispensed at the scheduled time. This will be a Red LED indicator and an alert will be sent to the shelter staff. 
