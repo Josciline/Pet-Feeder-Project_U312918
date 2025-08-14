@@ -1,0 +1,7 @@
+The flowchart explains the start till the end step-by-step process of the pet feeder machine.
+ In the first step we see the feeder machine checks the real time to decide if it is time to feed the pets. If the real time does not match the scheduled feeding time, the feeder machine does not dispense food.
+ At the scheduled feeding time the feeder machine checks if there is sufficient food in the food tray. If the food is not sufficient, the feeder machine sends an alert to the shelter staff to refill the tray.
+ If the food is sufficient, the feeder machine dispenses the food.
+ In the next step the feeder machine determines if the pets have eaten the food. This is determined by checking the difference in the weight of the food tray. If the food tray weighs the same as at the time the food was dispensed, it means the pets have not eaten the food. 
+Feeder machine is expected to wait for 30 minutes and check again if the pets have eaten the food. If the pets have still not eaten the food, the machine sends an alert to the shelter staff that the pets have not eaten the food. 
+If the weight of the food tray is lesser, it means the pets have eaten the food. At this time the feeder machine sends a final notification to the shelter staff that the pets have eaten the food. This is the last step in the flow chart
